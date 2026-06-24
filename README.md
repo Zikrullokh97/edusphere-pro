@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduSphere Pro — Teacher Dashboard
 
 ## Tech Stack
@@ -114,3 +115,6 @@ POST /api/teacher/broadcast        — Ommaviy xabar
 - Navy: `#003366`
 - Gold: `#C9A227`
 - Font: Inter
+=======
+# edusphere-pro
+>>>>>>> 1e0821db66a50bd8416cd4bba6ac5d35d551df2d
